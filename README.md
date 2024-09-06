@@ -34,3 +34,6 @@ Technologies used in the project:
 
 *   HTML/CSS/JavaScript: Front-end technologies used for building the user interface and functionality.
 *   FileSaver.js: JavaScript library used for downloading audio files.
+
+## Authors
+- [Henrietta Onoge] (https://github.com/Samuelhetty)
